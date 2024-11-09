@@ -2,6 +2,14 @@
 
 - 📖 [Remix docs](https://remix.run/docs)
 
+> [!NOTE]
+> This template has been set up with a Typescript express server template, with
+> `vite` configured to run in middleware mode during development using `tsx`.
+> It has also been set configured with `react-i18next` for internationalization,
+> and `vite-plugin-cjs-interop` to help with legacy CJS dependencies.
+>
+> Otherwise it's a standard Remix express app (Tailwind/PostCSS, etc).
+
 ## Development
 
 Run the dev server:
