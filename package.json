@@ -16,10 +16,10 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "@remix-run/express": "^2.14.0",
-    "@remix-run/node": "^2.14.0",
-    "@remix-run/react": "^2.14.0",
-    "@remix-run/serve": "^2.14.0",
+    "@remix-run/express": "*",
+    "@remix-run/node": "*",
+    "@remix-run/react": "*",
+    "@remix-run/serve": "*",
     "compression": "^1.7.5",
     "express": "^4.21.1",
     "i18next": "^23.16.5",
@@ -34,7 +34,7 @@
     "remix-i18next": "^6.4.1"
   },
   "devDependencies": {
-    "@remix-run/dev": "^2.14.0",
+    "@remix-run/dev": "*",
     "@types/compression": "^1.7.5",
     "@types/express": "^5.0.0",
     "@types/morgan": "^1.9.9",
